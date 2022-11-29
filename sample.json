@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "'No path' forward: Biden calls on Congress to avert rail strike - POLITICO",
+      "description": "Many rank and file railroad workers have fought to have better sick leave policies than those enshrined in the agreement, and Biden's action represents a significant split with parts of his labor base.",
+      "url": "https://www.politico.com/news/2022/11/28/freight-rail-shutdown-fuel-supply-00070980",
+      "urlToImage": "https://static.politico.com/1c/1d/b6a7af1a47d3bdf76de0441de4a8/221128-freight-rail-ap.jpg",
+      "publishedAt": "2022-11-29T01:31:18Z",
+      "content": "The development came two months after Labor Secretary Marty Walsh held an all-night bargaining session at his agencys headquarters that produced a tentative deal, temporarily defusing the strike thre… [+4393 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Jackie Wattles",
+      "title": "NASA's Orion spacecraft reaches record-breaking distance from Earth on Artemis I mission - CNN",
+      "description": "The Orion spacecraft, which is at the core of NASA's historic Artemis I mission, reached its farthest distance from Earth Monday afternoon, shattering the record for the maximum distance a spacecraft designed to carry humans has ever traveled.",
+      "url": "https://www.cnn.com/2022/11/28/world/nasa-artemis-1-orion-spacecraft-furthest-distance-moon-scn/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221128171928-01-nasa-orion-spacecraft-112822.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-29T01:31:00Z",
+      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe Orion spacecraft, which is at the core of NASAs hi… [+3833 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "CBSLA Staff",
+      "title": "Riverside homicides: Virginia cop 'catfished' teen before murders, police say - CBS Los Angeles",
+      "description": "The suspect wanted in a triple homicide in Riverside Friday was killed during a law-enforcement pursuit later the same day. Austin Edwards was a former Virginia State Trooper and worked for a sheriff's office in Virginia.",
+      "url": "https://www.cbsnews.com/losangeles/news/authorities-kill-suspect-connected-to-triple-homicide-in-riverside-in-shootout/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/28/f8b276ca-b5f5-4644-8e90-c9788211cac6/thumbnail/1200x630/5328dd5d821c3739475ca7a6e20e9831/austin-edwards-riverside-triple-homicide.gif",
+      "publishedAt": "2022-11-29T01:05:00Z",
+      "content": "The San Bernardino County Sheriff's Department killed the suspect wanted in a gruesome triple homicide in Riverside after he opened fire on a SWAT team Friday.\r\nAccording to authorities, on Friday, N… [+4846 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Elon Musk: Apple threatened to yank Twitter from App Store - Reuters",
+      "description": "Elon Musk accused Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> of threatening to block Twitter Inc from its app store without saying why in a series of tweets on Monday that also said the iPhone maker had stopped a…",
+      "url": "https://www.reuters.com/technology/musk-says-apple-mostly-stopped-advertising-twitter-2022-11-28/",
+      "urlToImage": "https://www.reuters.com/resizer/cX4Kx11iSTQ0URXkorazoYwq7r4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NB3LHET46ZPWXCOOLM2UA4JO3Y.jpg",
+      "publishedAt": "2022-11-29T00:44:00Z",
+      "content": "Nov 28 (Reuters) - Elon Musk accused Apple Inc (AAPL.O) of threatening to block Twitter Inc from its app store without saying why in a series of tweets on Monday that also said the iPhone maker had s… [+3391 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Ryan Gaydos",
+      "title": "Auburn brings Hugh Freeze back to the SEC - Fox News",
+      "description": "Auburn found its new head coach to lead the football team on Monday, bringing Hugh Freeze back to the SEC after stepping down from Ole Miss.",
+      "url": "https://www.foxnews.com/sports/auburn-brings-hugh-freeze-back-sec",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/Hugh-Freeze.jpg",
+      "publishedAt": "2022-11-29T00:05:37Z",
+      "content": "Auburn hired Hugh Freeze as its next football coach on Monday. Freeze spent the last four years at Liberty and was with Ole Miss for five years before that.\r\nFreeze replaces Bryan Harsin, who was fir… [+2997 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Caleb Jones",
+      "title": "Hawaii's Mauna Loa volcano starts erupting: Live updates - The Associated Press - en Español",
+      "description": "KAILUA-KONA, Hawaii (AP) — Waves of orange, glowing lava and smoky ash belched and sputtered Monday from the world’s largest active volcano in its first eruption in 38 years, and officials told people living on Hawaii’s Big Island to be ready in the event of …",
+      "url": "https://apnews.com/article/hawaii-volcano-mauna-loa-erupting-live-updates-7cbdb4d597468702210bc31ef8e0a58c",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/7938310f524149a8ae150e9c8004ffd0/2925.jpeg",
+      "publishedAt": "2022-11-29T00:03:59Z",
+      "content": "KAILUA-KONA, Hawaii (AP) Waves of orange, glowing lava and smoky ash belched and sputtered Monday from the worlds largest active volcano in its first eruption in 38 years, and officials told people l… [+6302 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Mark Morales, Eric Levenson, Kristina Sgueglia",
+      "title": "Buffalo grocery store mass shooter pleads guilty to terrorism and murder charges in racist attack - CNN",
+      "description": "The gunman who killed 10 people and wounded three in May in a racist attack at a grocery store in a predominantly Black neighborhood of Buffalo, New York, pleaded guilty Monday to state charges of domestic terrorism as a hate crime, murder and attempted murde…",
+      "url": "https://www.cnn.com/2022/11/28/us/buffalo-tops-grocery-shooting-payton-gendron-plea/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221128112952-tops-supermarket-memorial-file-051922.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-29T00:03:00Z",
+      "content": "The gunman who killed 10 people and wounded three in May in a racist attack at a grocery store in a predominantly Black neighborhood of Buffalo, New York, pleaded guilty Monday to state charges of do… [+6663 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Nicki Cox",
+      "title": "Collin Gosselin: Mom Kate institutionalizing me left me 'hopeless,' in 'dark place' - Page Six",
+      "description": "The 18-year-old said in a rare TV interview that his estranged mother’s decision to send him away at 12 years old did “more damage” than it did help him.",
+      "url": "https://pagesix.com/2022/11/28/collin-gosselin-kate-institutionalizing-me-left-me-hopeless/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/11/collin-gosselin-says-kate-institutionalized-him-left-him-in-dark-place.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2022-11-29T00:01:00Z",
+      "content": "Collin Gosselin says his estranged mom’s decision to institutionalize him at 12 years old caused serious “damage” and left him in a “dark place.”\r\nThe 18-year-old candidly discussed his experience at… [+3006 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Maricopa County certifies election while Cochise County refuses - 12 News",
+      "description": "Republican officials in rural Cochise County refused on Monday to certify the 2022 election, despite no evidence of anything wrong with the recount.",
+      "url": "https://www.youtube.com/watch?v=KxsF58G2IQI",
+      "urlToImage": "https://i.ytimg.com/vi/KxsF58G2IQI/hqdefault.jpg",
+      "publishedAt": "2022-11-28T23:43:51Z",
+      "content": null
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "British PM Sunak says ‘golden era’ of UK-China relations is over - Al Jazeera English",
+      "description": "Rishi Sunak warned Monday that China posed a ‘systemic challenge’ to UK ‘values and interests’.",
+      "url": "https://www.aljazeera.com/news/2022/11/28/british-prime-minister-sunak-golden-era-of-uk-china-is-over",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-11-28T211139Z_1180326887_RC29VX98HXDE_RTRMADP_3_BRITAIN-POLITICS-SUNAK.jpg?resize=1920%2C1440",
+      "publishedAt": "2022-11-28T23:33:50Z",
+      "content": "British Prime Minister Rishi Sunak has said China poses a systemic challenge to UK values and interests as his government condemned Beijing after a BBC journalist was beaten while covering Shanghai p… [+3488 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "Jessie James Decker Defends Kids' Ripped Abs, Eric Decker Cosigns - TMZ",
+      "description": "Jessie James Decker is firing back at internet trolls ... calling them lame for body shaming her ripped kids -- and her former NFL star hubby, Eric Decker, is cosigning on her message.",
+      "url": "https://www.tmz.com/2022/11/28/jessie-james-decker-defends-kids-ripped-abs-eric-decker-cosigns/",
+      "urlToImage": "https://imagez.tmz.com/image/23/16by9/2022/11/28/23d608d28aa149b3acb909ab91a79515_xl.png",
+      "publishedAt": "2022-11-28T23:26:00Z",
+      "content": "Jessie James Decker is firing back at internet trolls ... calling them super lame for body shaming her ripped kids -- and her former NFL star hubby, Eric Decker, is cosigning on her message.\r\nJessie … [+1440 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Raechal Shewfelt",
+      "title": "Billie Eilish opens up about boyfriend Jesse Rutherford: 'I'm really happy about it' - Yahoo Entertainment",
+      "description": "Eilish said she's \"really inspired\" by Jesse Rutherford.",
+      "url": "https://www.yahoo.com/entertainment/billie-eilish-opens-up-about-boyfriend-jesse-rutherford-im-really-happy-about-it-231334165.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/97e945d0-6f69-11ed-b39d-03793ef02be6",
+      "publishedAt": "2022-11-28T23:13:34Z",
+      "content": "Billie Eilish and Jesse Rutherford attend the LACMA Art+Film Gala at Los Angeles County Museum of Art in Los Angeles on Nov. 5. (Photo: Michael Tran/AFP via Getty Images)\r\nBillie Eilish's relationshi… [+2314 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SportsLine" },
+      "author": null,
+      "title": "NFL DFS Monday Night Football picks, Week 12: Steelers vs. Colts fantasy lineup advice for DraftKings, Fanduel from Millionaire contest winner - SportsLine.com - SportsLine",
+      "description": "The Week 12 NFL schedule comes to a close with an AFC matchup between the Indianapolis Colts and Pittsburgh Steelers on Monday Night Football. Th...",
+      "url": "https://www.sportsline.com/insiders/nfl-dfs-monday-night-football-picks-week-12-steelers-vs-colts-fantasy-lineup-advice-for-draftkings-fanduel-from-millionaire-contest-winner/",
+      "urlToImage": "https://splnhub.cbsistatic.com/i/2022/11/28/eba65565-99c8-4a82-90b9-72be7f17ac5c/michael-pittman-usatsi-colts.jpg",
+      "publishedAt": "2022-11-28T23:07:00Z",
+      "content": "The Week 12 NFL schedule comes to a close with an AFC matchup between the Indianapolis Colts and Pittsburgh Steelers on Monday Night Football. The Colts, led by Matt Ryan, Jonathan Taylor, and Michae… [+2931 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Biden administration reacts with caution to China protests - POLITICO",
+      "description": "Some U.S. lawmakers were more strident. But the overall response reflected wariness about how Beijing will act.",
+      "url": "https://www.politico.com/news/2022/11/28/biden-administration-china-protests-zero-covid-00070924",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/285bdd37-d8b7-4cd2-aca3-8472a3705189/4e3d96d7-9e8b-4fbf-97bd-c376f340d66e/1280x720/match/image.jpg",
+      "publishedAt": "2022-11-28T23:04:14Z",
+      "content": "As weve said, we think its going to be very difficult for the Peoples Republic of China to be able to contain this virus through their zero Covid strategy, the spokesperson said in the statement, add… [+8048 chars]"
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": "Kadhim Shubber, Alexandra Scaggs, Antoine Gara",
+      "title": "BlockFi sues Sam Bankman-Fried over Robinhood shares - Financial Times",
+      "description": "Complaint against FTX founder comes as crypto company becomes the latest to seek bankruptcy protection",
+      "url": "https://www.ft.com/content/1719e122-3b50-4d86-9a30-9fe72f2286fe",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1450e92d-2a6f-44ba-a8c7-2911d9291de6.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-11-28T22:59:42Z",
+      "content": "Bankrupt cryptocurrency lender BlockFi is suing Sam Bankman-Fried to seize shares in Robinhood that the FTX founder allegedly pledged as collateral just days before his exchange collapsed.\r\nThe lawsu… [+3230 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Haris Alic",
+      "title": "Democrats racing to try and secure year-long budget deal before Republicans take control of the House - Fox News",
+      "description": "Democrats in Congress are hoping to secure a year-long budget deal before funding runs out on Dec. 16 and before Republicans take control of the House in January.",
+      "url": "https://www.foxnews.com/politics/democrats-racing-try-secure-year-long-budget-deal-before-republicans-take-control-house",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Schumer-Pelosi.jpg",
+      "publishedAt": "2022-11-28T22:47:23Z",
+      "content": "Congressional Democrats are racing to secure a year-long budget deal before Republicans take control of the House of Representatives in January.\r\nDemocrats want a budget deal that would keep the gove… [+4152 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ben Morse, Kevin Dotson",
+      "title": "Pitch invader with rainbow flag interrupts World Cup match between Portugal and Uruguay - CNN",
+      "description": "The World Cup match between Portugal and Uruguay was briefly interrupted by a pitch invader waving a rainbow flag on the field at the Lusail Iconic Stadium on Monday.",
+      "url": "https://www.cnn.com/2022/11/28/football/pitch-invader-rainbow-flag-2022-world-cup-spt-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221128154625-01-portugal-uruguay-match-pitch-invader-1128.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-28T22:03:00Z",
+      "content": "The World Cup match between Portugal and Uruguay was briefly interrupted by a pitch invader waving a rainbow flag on the field at the Lusail Iconic Stadium on Monday.\r\nThe FIFA global television feed… [+5088 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Emily Shapiro",
+      "title": "Oxford school shooting: Whistleblowers say district failed to implement its threat assessment policy - ABC News",
+      "description": "Four students were killed in the Nov. 30, 2021, mass shooting.",
+      "url": "https://abcnews.go.com/US/oxford-school-shooting-whistleblowers-district-failed-implement-threat/story?id=94092832",
+      "urlToImage": "https://s.abcnews.com/images/US/oxford-shooting-1-gty-bb-221128_1669654781266_hpMain_16x9_992.jpg",
+      "publishedAt": "2022-11-28T21:30:45Z",
+      "content": "Two resigned Oxford, Michigan, school board members claim the district failed to implement its threat assessment playbook that they say could've prevented last year's mass shooting at Oxford High Sch… [+4801 chars]"
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": "Gloria Li, Thomas Hale, Ryan McMorrow, Edward White",
+      "title": "Xi Jinping faces stiffest challenge to rule as Covid outrage sparks mass protests - Financial Times",
+      "description": "Demonstrations in China stamped out by Monday but analysts warn of reprisals if dissent flares up again",
+      "url": "https://www.ft.com/content/0239ecd9-718b-42b2-9067-ab93df3ceb0f",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0042b048-06b4-4768-aa9d-41f71f0ed827.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-11-28T21:28:22Z",
+      "content": "Xi Jinping faces one of his greatest challenges as president of China after tens of thousands of people took to the streets over Beijings strict coronavirus controls and suppression of freedom of spe… [+5978 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/jon-fingas",
+      "title": "Google sued by FTC and seven states over 'deceptive' Pixel 4 ads - Engadget",
+      "description": "Google and iHeartMedia have been sued for allegedly running misleading Pixel 4 ads..",
+      "url": "https://www.engadget.com/google-iheartmedia-pixel-4-deceptive-ads-lawsuit-210535824.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-06/5cf464f0-b4cc-11ea-8efd-ce8e88c30ab6",
+      "publishedAt": "2022-11-28T21:06:44Z",
+      "content": "You're not the only one wondering if that social media star really used a hot new phone. The Federal Trade Commission and seven states have sued Google and iHeartMedia for running allegedly \"deceptiv… [+1916 chars]"
+    }
+  ]
+}
